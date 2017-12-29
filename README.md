@@ -8,8 +8,8 @@ A list of goals I've to achieve in 2018
 * Studies
 
 ### List
-[x] Get Admission in Universty
-[ ] Learn Python
+[x]Get Admission in Universty
+[ ]Learn Python
 [ ] Release GunFire on Android
 [ ] Release GunFire on Desktop
 [ ] Learn TensorFlow
