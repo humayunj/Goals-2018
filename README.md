@@ -8,21 +8,22 @@ A list of goals to achieve in 2018
 * Studies
 * Programing Languages
 * Algorithms
+
 ### List
 - [ ] Get Admission in Universty
+- [ ] Learn Java
 - [ ] Learn Python
-- [ ] Release GunFire on Android
-- [ ] Release GunFire on Desktop
+- [ ] Learn Javascript
+- [ ] Learn Datastructure algorithms ( QuickSort, MergeSort, ... ) and related terms ( Big-O, .. )
+- [ ] Learn NodeJs
+- [ ] Create a fully functional Website using HTML, CSS and Javascript
+- [ ] Learn Electron Module of NodeJs
+- [ ] Create a WebApp using AngularJs and React
 - [ ] Learn TensorFlow
 - [ ] Learn Scikit
 - [ ] Learn Genetic Algorithm
 - [ ] Learn Different ML Classfiers
-- [ ] Learn Javascript
-- [ ] Create a fully functional Website using HTML, CSS and Javascript
-- [ ] Learn Java
-- [ ] Create a WebApp using AngularJs and React
-- [ ] Learn NodeJs
-- [ ] Learn Electron Module of NodeJs
-- [ ] Learn Datastructure algorithms ( QuickSort, MergeSort ... ) and related terms ( Big-O, .. )
-- [ ] Learn OpenGL and Direct3D API
+- [ ] Release GunFire on Android
+- [ ] Release GunFire on Desktop
 - [ ] Learn Linux OS
+- [ ] Learn OpenGL and Direct3D API
