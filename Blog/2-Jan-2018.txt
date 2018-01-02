@@ -1,0 +1,5 @@
+First working day of 2018. I've decided to learn Java first and I've created a separate folder 'Goals' where I'll upload my materials.
+I've already found a book 'Java 8 The Complete Reference' and I'll learn Java through this book. For a quick guide I've found Java overview pdf version.
+All Java related guides and books are in Goals\Learn Java\Guides
+
+Lets start the learning year!
