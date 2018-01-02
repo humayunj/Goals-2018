@@ -11,7 +11,7 @@ A list of goals to achieve in 2018
 
 ### List
 - [ ] Get Admission in Universty
-- [ ] Learn Java
+- :book: [ ] Learn Java
 - [ ] Learn Python
 - [ ] Learn Javascript
 - [ ] Learn Datastructure algorithms ( QuickSort, MergeSort, ... ) and related terms ( Big-O, .. )
