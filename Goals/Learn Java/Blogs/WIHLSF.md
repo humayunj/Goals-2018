@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-</head>
-<body>
-<h1>What I've learnt so far</h1>
-<p>
+## What I've learnt so far
 Variables
 Methods
 Classes
@@ -26,6 +20,3 @@ Packages
 Interfaces
 Nested Classes and Interfaces
 Access Levels in Packages
-</p>
-</body>
-</html>
