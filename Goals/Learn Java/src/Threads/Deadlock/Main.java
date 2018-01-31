@@ -42,7 +42,6 @@ class Main implements Runnable {
         System.out.println("Back in Main thread");
     }
 
-    public void run() {
         b.bar (a);
         System.out.println("Back in other Thread");
     }
