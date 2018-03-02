@@ -53,6 +53,7 @@ A list of goals to achieve in 2018
 
 #### Design and management
 - [ ] Learn project structure management, Gradle, Maven, CMake
+- [ ] Learn source control using command line git and gui github
 
 #### OS
 - [ ] Learn Linux OS
