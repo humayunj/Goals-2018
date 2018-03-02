@@ -29,16 +29,16 @@ A list of goals to achieve in 2018
 - [ ] Learn OpenGL and Direct3D API
 - [ ] Learn Assembly Language basics
 - [ ] Learn project structure management
-      - [ ] Gradle
-      - [ ] Maven
-      - [ ] CMake
+-     [ ] Gradle
+-     [ ] Maven
+-     [ ] CMake
 - [ ] Learn ARM processor native programs using Android NDK
 - [ ] Learn Android APIs using Android Studio
 - [ ] Learn shared code in C,C# and Java with both dynamic and static linking
 - [ ] Learn SSL and Cryptography
 - [ ] Learn sockets in C and Java
-      - [ ] TCP
-      - [ ] UDP
+-     [ ] TCP
+-     [ ] UDP
 - [ ] Create Relaible UDP Protocol
 - [ ] Create conversation website
 - [ ] Take a look at Flutter SDK
