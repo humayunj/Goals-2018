@@ -15,9 +15,9 @@ A list of goals to achieve in 2018
 - [ ] Get Admission in Universty
 
 #### Programming Languages
-- [ ] :pushpin: Learn Java
+- [X] Learn Java
 - [ ] Learn Python
-- [ ] Learn Javascript
+- [ ] :pushpin: Learn Javascript
 - [ ] Learn Assembly Language basics
 
 
@@ -42,17 +42,17 @@ A list of goals to achieve in 2018
 
 #### Networking and Security
 - [ ] Learn SSL and Cryptography
-- [ ] Create Relaible UDP Protocol
-- [ ] Learn sockets in C and Java, TCP and UDP
+- [ ] :pushpin:Create Relaible UDP Protocol
+- [ ] :pushpin:Learn sockets in C and Java, TCP and UDP
 
 #### Projects
-- [ ] Release GunFire Engine
+- [X] Release GunFire Engine
 - [ ] Create a conversation bot using ML implement in conversation website
 - [ ] Create conversation website as WebApp using AngularJs and Rect
 
 
 #### Design and management
-- [ ] Learn project structure management, Gradle, Maven, CMake
+- [X] Learn project structure management, Gradle, Maven, CMake
 - [ ] Learn source control using command line git and gui github
 
 #### OS
