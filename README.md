@@ -22,7 +22,7 @@ A list of goals to achieve in 2018
 
 
 #### Web
-- [ ] Learn NodeJs
+- [ ] :pushpin:Learn NodeJs
 - [ ] Create a fully functional Website using HTML, CSS and Javascript
 - [ ] Learn Electron Module of NodeJs
 
