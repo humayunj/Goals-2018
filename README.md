@@ -16,7 +16,7 @@ A list of goals to achieve in 2018
 
 #### Programming Languages
 - [X] Learn Java
-- [ ] Learn Python
+- [ ] :pushpin: Learn Python
 - [ ] :pushpin: Learn Javascript
 - [ ] Learn Assembly Language basics
 
@@ -31,7 +31,7 @@ A list of goals to achieve in 2018
 
 #### Frameworks and APIs
 - [ ] Learn OpenGL (and Direct3D) API basics
-- [ ] Take a look at Flutter SDK
+- [ ] Take a look at Flutter SDK *To Old Me: Seriously just a look?! 
 - [ ] Learn Android APIs using Android Studio
 
 #### Machine Learning
@@ -42,7 +42,7 @@ A list of goals to achieve in 2018
 
 #### Networking and Security
 - [ ] Learn SSL and Cryptography
-- [ ] :pushpin:Create Relaible UDP Protocol
+- [X] Create Relaible UDP Protocol
 - [ ] :pushpin:Learn sockets in C and Java, TCP and UDP
 
 #### Projects
