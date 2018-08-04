@@ -31,7 +31,7 @@ A list of goals to achieve in 2018
 
 #### Frameworks and APIs
 - [ ] Learn OpenGL (and Direct3D) API basics
-- [ ] Take a look at Flutter SDK *To Old Me: Seriously just a look?! 
+- [ ] Take a look at Flutter SDK ( To Old Me: Seriously just a look?! )
 - [ ] Learn Android APIs using Android Studio
 
 #### Machine Learning
