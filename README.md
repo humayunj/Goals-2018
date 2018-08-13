@@ -56,7 +56,7 @@ A list of goals to achieve in 2018
 - [ ] Learn source control using command line git and gui github
 
 #### OS
-- [ ] Learn Linux OS
+- [ ] :pushpin:Learn Linux OS
 
 #### Native Programs
 - [ ] Learn ARM processor native programs with Android NDK
