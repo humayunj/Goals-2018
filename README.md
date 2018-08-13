@@ -48,7 +48,7 @@ A list of goals to achieve in 2018
 #### Projects
 - [X] Release GunFire Engine
 - [ ] Create a conversation bot using ML implement in conversation website
-- [ ] Create conversation website as WebApp using AngularJs and Rect
+- [ ] Create conversation website as WebApp using AngularJs and React
 
 
 #### Design and management
