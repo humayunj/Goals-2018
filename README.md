@@ -74,16 +74,18 @@ A list of goals to achieve in 2018
 - :heavy_check_mark: Created Databases in MySQL and SQLite
 - :heavy_check_mark: Created Webservice in Java
 - :heavy_check_mark: Understood basic pre-calculas concepts finally
-
-
 - :heavy_check_mark: Made my first game "Weird Space" for GMC Jam 7 theme "Newton's laws of motion and acheived 9th position
-- :heavy_check_mark: Learnt Gradle build system and used ant build system for gunfire project
-- :heavy_check_mark: Learnt JSON XML CSV dataset formats
-- :heavy_check_mark: Learnt Encryption systems including XOR-Cypher
-- :heavy_check_mark: Made a QuickSearch progrma in Java that uses Google search engine API , JSON and URL Connections to search without any need of browser.
+- :heavy_check_mark: Learnt Gradle and Ant Build System
+- :heavy_check_mark: Learnt JSON,XML and CSV dataset formats
+- :heavy_check_mark: Learnt Encryptions including XOR-Cypher
+- :heavy_check_mark: Created a QuickSearch program that uses Google APIs to search in console without any need of browser.
 - :heavy_check_mark: Creating framework 'Deep Networking Interface (DNI)' to simplify networking in Java and GML
 - :heavy_check_mark: Created a facebook instant game using Instant Games API ( havn't published it )
 - :heavy_check_mark: Created a Firefox extention (add-on) ( havn't published it )
-- :heavy_check_mark: Learnt LUA integration in Java
+- :heavy_check_mark: Learnt LUA and its integration in Java
 - :heavy_check_mark: Created an extention to import Tiled json exports to GameMaker ( including cross platform support )
 - :heavy_check_mark: Created a conversation app for android. ( Server in Java and Client in Android Studio )
+
+- :heavy_check_mark: Played with Arduino UNO and learnt its coding
+- :heavy_check_mark: Created a radar system using Arduino UNO and HC-SR04
+- :heavy_check_mark: Created an alarm system using Arduino UNO and Speakers
