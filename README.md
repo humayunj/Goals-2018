@@ -87,6 +87,7 @@ A list of goals to achieve in 2018
 - :heavy_check_mark: Created a conversation app for android. ( Server in Java and Client in Android Studio )
 - :heavy_check_mark: Learnt and created several Restful APIs
 - :heavy_check_mark: Learnt CPU architectures, Kernel and how a an operating system works
+- :heavy_check_mark: Reached 82 WPM typing speed in typing test
 
 - :heavy_check_mark: Played with Arduino UNO and learnt its coding
 - :heavy_check_mark: Created a radar system using Arduino UNO and HC-SR04
