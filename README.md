@@ -67,7 +67,7 @@ A list of goals to achieve in 2018
 - :heavy_check_mark: Got 3 Months Internship at ARG Software House
 - :heavy_check_mark: Created 2 Professional Android Apps
 - :heavy_check_mark: Used serveral APIs including GitHub
-- :heavy_check_mark: Read serveral books apart from code
+- :heavy_check_mark: Read serveral books apart from coding
 - :heavy_check_mark: Learnt PHP Basics
 - :heavy_check_mark: Created Webservices in PHP
 - :heavy_check_mark: Learnt Database and SQL
@@ -85,6 +85,7 @@ A list of goals to achieve in 2018
 - :heavy_check_mark: Learnt LUA and its integration in Java
 - :heavy_check_mark: Created an extention to import Tiled json exports to GameMaker ( including cross platform support )
 - :heavy_check_mark: Created a conversation app for android. ( Server in Java and Client in Android Studio )
+- :heavy_check_mark: Learnt and created several Restful APIs
 
 - :heavy_check_mark: Played with Arduino UNO and learnt its coding
 - :heavy_check_mark: Created a radar system using Arduino UNO and HC-SR04
