@@ -12,17 +12,17 @@ A list of goals to achieve in 2018
 ### List
 
 #### Studies
-- [ ] Get Admission in Universty
+- [ ] :pushpin: Get Admission in Universty
 
 #### Programming Languages
 - [X] Learn Java
 - [X] Learn Python
-- [ ] :pushpin: Learn Javascript
+- [ ] Learn Javascript
 - [X] Learn Assembly Language basics
 
 
 #### Web
-- [ ] :pushpin:Learn NodeJs
+- [ ] Learn NodeJs
 - [ ] Create a fully functional Website using HTML, CSS and Javascript
 - [ ] Learn Electron Module of NodeJs
 
@@ -56,7 +56,7 @@ A list of goals to achieve in 2018
 - [X] Learn source control using command line git and gui github
 
 #### OS
-- [X] Learn Linux OS
+- [X] Learn Linux OS ( Learnt Basics )
 
 #### Native Programs
 - [ ] Learn ARM processor native programs with Android NDK
@@ -93,4 +93,3 @@ A list of goals to achieve in 2018
 - :heavy_check_mark: Created a radar system using Arduino UNO and HC-SR04
 - :heavy_check_mark: Created an alarm system using Arduino UNO and Speakers
 
--  :gift_heart:  Gifted my Mom a mobile phone OPPO F7
