@@ -1,6 +1,12 @@
 # Goals-2018
 A list of goals to achieve in 2018
 
+### Symbols
+:pushpin: In progress / Working on it
+- [ ] To do/ To Learn
+- [X] Done/ Learnt
+
+
 ## Basics
 * Machine Learning
 * Web Technologies
@@ -17,7 +23,7 @@ A list of goals to achieve in 2018
 #### Programming Languages
 - [X] Learn Java
 - [X] Learn Python
-- [ ] Learn Javascript
+- [ ] :pushpin: Learn Javascript
 - [X] Learn Assembly Language basics
 
 
@@ -25,6 +31,7 @@ A list of goals to achieve in 2018
 - [ ] Learn NodeJs
 - [ ] Create a fully functional Website using HTML, CSS and Javascript
 - [ ] Learn Electron Module of NodeJs
+- [ ] :pushpin: Learn ReactJs
 
 #### Data structures and Algorithms
 - [ ] Learn Datastructure algorithms ( QuickSort, MergeSort, ... ) and related terms ( Big-O, .. )
