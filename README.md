@@ -73,7 +73,7 @@ A list of goals to achieve in 2018
 ## Extra Things
 - :heavy_check_mark: Got 3 Months Internship at ARG Software House
 - :heavy_check_mark: Created 2 Professional Android Apps
-- :heavy_check_mark: Used serveral APIs including GitHub
+- :heavy_check_mark: Used serveral APIs including APIs from GitHub, Google, Facebook
 - :heavy_check_mark: Read serveral books apart from coding
 - :heavy_check_mark: Learnt PHP Basics
 - :heavy_check_mark: Created Webservices in PHP
