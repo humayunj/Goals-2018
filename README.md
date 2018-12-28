@@ -105,7 +105,7 @@ A list of goals to achieve in 2018
 * Java 8 The Complete Reference
 * Eloquent JavaScript
 * Python Crash Course
-* HTML And CSS Design And Build Websites
+* HTML & CSS
 * Programming from the Ground Up
 * The Manager's Path
 * Fullstack React
